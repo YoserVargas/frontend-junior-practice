@@ -2,14 +2,13 @@
 
 Practical JavaScript and React exercises as part of my preparation for a junior frontend developer position.
 
-## Exercise 01: Filter Products
+## JavaScript Exercises
 
-### Description
+### Exercise 01: Filter Products
 
-A JavaScript function that filters a list of products and returns only those with a price below 15,000.
+Filter a list of products and return only those with a price below 15,000.
 
-### Concepts practiced
-
+**Concepts practiced:**
 - Arrays and objects
 - Functions and parameters
 - The `filter()` array method
@@ -17,17 +16,53 @@ A JavaScript function that filters a list of products and returns only those wit
 - Returning values from functions
 - Running JavaScript with Node.js
 
-### How to run
+### Exercise 02: Filter Numbers Greater Than 10
 
-Make sure Node.js is installed, then run:
+Return only the numbers greater than 10 from an array.
+
+**Concepts practiced:**
+- Arrays
+- Functions
+- The `filter()` array method
+- Comparison operators
+
+### Exercise 03: Filter Products on Sale
+
+Return only products with a price below 11,000.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `filter()` array method
+- Accessing object properties
+
+### Exercise 04: Filter Strong Characters
+
+Return only characters whose level is greater than 10.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `filter()` array method
+- Object properties and comparison operators
+
+### Exercise 05: Double Numbers Greater Than 10
+
+Filter numbers greater than 10 and return their doubled values.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `map()` array method
+- Chaining array methods
+- Transforming array elements
+
+## How to Run
+
+Make sure Node.js is installed. Open a terminal in the project directory and run an exercise with:
 
 ```bash
 node ejercicio-01.js
 ```
 
-### Expected result
-
-The function returns the Mouse and Audífonos products because their prices are below 15,000.
+Replace `ejercicio-01.js` with the filename of the exercise you want to run.
 
 ## Technologies
 
@@ -35,6 +70,6 @@ The function returns the Mouse and Audífonos products because their prices are 
 - Node.js
 - Git and GitHub
 
-## Purpose
+## Goal
 
-This repository documents my learning progress through practical exercises as I prepare for a junior frontend developer role.
+Build practical programming skills and prepare for a junior frontend developer position through progressive exercises and portfolio projects.
