@@ -111,6 +111,64 @@ Return all products whose price is greater than 10,000 using the `filter()` arra
 - Returning multiple matching elements
 - Understanding the difference between `find()` and `filter()`
 
+
+### Exercise 11: Filter Available Products Within a Budget
+
+Return products that are available and whose price is less than or equal to a given budget.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `filter()` array method
+- Comparison operators (`<=`)
+- The logical AND (`&&`) operator
+- Combining multiple conditions
+- Boolean values
+
+### Exercise 12: Filter Available Products and Return Names
+
+Return only the names of products that are available.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `map()` array method
+- Chaining array methods
+- Filtering and transforming data
+- Boolean conditions
+
+### Exercise 13: Filter Active Adult Users and Return Names
+
+Return the names of users who are at least 18 years old and are active.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `filter()` array method
+- The `map()` array method
+- Comparison operators (`>=`)
+- The logical AND (`&&`) operator
+- Combining multiple conditions
+
+### Exercise 14: Calculate the Total Price of Products
+
+Calculate and return the sum of the prices of all products using `reduce()`.
+
+**Concepts practiced:**
+- The `reduce()` array method
+- Accumulators and initial values
+- Callback functions
+- Accessing object properties
+- Calculating totals
+
+### Exercise 15: Calculate the Total Price of Available Products
+
+Filter available products and calculate the sum of their prices.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Chaining array methods
+- Accumulators and initial values
+- Combining filtering and calculations
+
 ## How to Run
 
 Make sure Node.js is installed. Open a terminal in the project directory and run an exercise with:
