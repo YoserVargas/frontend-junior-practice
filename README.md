@@ -54,6 +54,30 @@ Filter numbers greater than 10 and return their doubled values.
 - Chaining array methods
 - Transforming array elements
 
+### Exercise 06: Filter Affordable Accessories
+
+Return only products that belong to the "accesorios" category and cost less than 11,000.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `filter()` array method
+- Comparison operators
+- The logical AND (`&&`) operator
+- Combining multiple conditions
+- Strict equality (`===`)
+
+### Exercise 07: Find a Product by Name
+
+Find and return a product that matches a given name using the `find()` array method.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `find()` array method
+- Functions with multiple parameters
+- Callback functions
+- Strict equality (`===`)
+- Returning and displaying values
+
 ## How to Run
 
 Make sure Node.js is installed. Open a terminal in the project directory and run an exercise with:
