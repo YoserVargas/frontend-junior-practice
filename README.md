@@ -56,7 +56,7 @@ Filter numbers greater than 10 and return their doubled values.
 
 ### Exercise 06: Filter Affordable Accessories
 
-Return only products that belong to the "accesorios" category and cost less than 11,000.
+Return only products that belong to the `"accesorios"` category and cost less than 11,000.
 
 **Concepts practiced:**
 - Arrays of objects
@@ -77,6 +77,39 @@ Find and return a product that matches a given name using the `find()` array met
 - Callback functions
 - Strict equality (`===`)
 - Returning and displaying values
+
+### Exercise 08: Find a Product by Price
+
+Find and return the first product whose price matches a given value using the `find()` array method.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `find()` array method
+- Function parameters
+- Comparison operators
+- Handling search results
+
+### Exercise 09: Filter Affordable Products and Return Names
+
+Filter products costing less than 11,000 and return only their names.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `map()` array method
+- Chaining array methods
+- Working with arrays of objects
+- Transforming data
+
+### Exercise 10: Filter Expensive Products
+
+Return all products whose price is greater than 10,000 using the `filter()` array method.
+
+**Concepts practiced:**
+- The `filter()` array method
+- Comparison operators (`>` and `>=`)
+- Arrays of objects
+- Returning multiple matching elements
+- Understanding the difference between `find()` and `filter()`
 
 ## How to Run
 
