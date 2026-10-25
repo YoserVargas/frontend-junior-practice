@@ -169,6 +169,41 @@ Filter available products and calculate the sum of their prices.
 - Accumulators and initial values
 - Combining filtering and calculations
 
+### Exercise 16: Calculate Total Sales
+
+Calculate the total revenue from a list of sales by multiplying each product's quantity by its unit price and adding the results.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `reduce()` array method
+- Accumulators and initial values
+- Multiplication and addition
+- Accessing object properties
+- Calculating totals
+
+### Exercise 17: Calculate Sales by Category
+
+Calculate the total revenue for a specific product category.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Chaining array methods
+- Function parameters
+- Comparing object properties
+- Calculating totals by category
+
+### Exercise 18: Count Products by Category
+
+Count how many products belong to a specified category.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `length` property
+- Arrays of objects
+- Function parameters
+- Comparing values
+
 ## How to Run
 
 Make sure Node.js is installed. Open a terminal in the project directory and run an exercise with:
