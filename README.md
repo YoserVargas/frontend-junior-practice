@@ -204,6 +204,31 @@ Count how many products belong to a specified category.
 - Function parameters
 - Comparing values
 
+### Exercise 19: Calculate Total Spending by Customer
+
+Calculate the total amount spent by a specific customer by filtering their purchases and summing their prices.
+
+**Concepts practiced:**
+- Arrays of objects
+- The `filter()` array method
+- The `reduce()` array method
+- Function parameters
+- Accessing object properties
+- Calculating totals for a specific customer
+
+### Exercise 20: Calculate Customer Spending by Category
+
+Calculate the total amount spent by a specific customer on products belonging to a selected category.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Chaining array methods
+- Logical AND (`&&`)
+- Multiple filtering conditions
+- Function parameters
+- Calculating totals by customer and category
+
 ## How to Run
 
 Make sure Node.js is installed. Open a terminal in the project directory and run an exercise with:
