@@ -248,3 +248,62 @@ Replace `ejercicio-01.js` with the filename of the exercise you want to run.
 ## Goal
 
 Build practical programming skills and prepare for a junior frontend developer position through progressive exercises and portfolio projects.
+
+## Practical JavaScript Assessments
+
+This folder contains practical assessments designed to evaluate JavaScript fundamentals and problem-solving skills.
+
+### Assessment 01: Filter Available and Affordable Products
+
+Return products that are available and cost less than 15,000.
+
+**Concepts practiced:**
+- The `filter()` array method
+- Boolean conditions
+- Comparison operators
+- Combining conditions with `&&`
+
+### Assessment 02: Calculate Customer Spending
+
+Calculate the total amount spent by a specific customer.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Function parameters
+- Accumulators and initial values
+- Chaining array methods
+
+### Assessment 03: Get Names of Active Adult Users
+
+Return the names of users who are active and at least 18 years old.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `map()` array method
+- Logical operators
+- Comparison operators
+- Chaining array methods
+
+### Assessment 04: Find a Product by Name
+
+Find and return a product that matches a given name.
+
+**Concepts practiced:**
+- The `find()` array method
+- Callback functions
+- Function parameters
+- Strict equality (`===`)
+- Handling search results
+
+### How to Run an Assessment
+
+From the project root, run an assessment using Node.js:
+
+```bash
+node evaluaciones/evaluacion-01.js
+```
+
+Replace `evaluacion-01.js` with the assessment filename you want to run.
+
+These assessments are part of a progressive learning process to identify strengths and areas for improvement before moving on to more advanced JavaScript and React development.
