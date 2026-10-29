@@ -296,6 +296,59 @@ Find and return a product that matches a given name.
 - Strict equality (`===`)
 - Handling search results
 
+### Assessment 05: Calculate Total of Available Affordable Products
+
+Calculate the total price of products that are available and cost less than 15,000.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Comparison operators
+- Accumulators and initial values
+
+### Assessment 06: Calculate Total Paid Sales
+
+Calculate the total value of sales that have been paid.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Boolean conditions
+- Accumulators and initial values
+
+### Assessment 07: Find an Active User by Name
+
+Find and return a user whose name matches the search and whose account is active.
+
+**Concepts practiced:**
+- The `find()` array method
+- Function parameters
+- Strict equality (`===`)
+- The logical AND (`&&`) operator
+
+### Assessment 08: Get Names of Active Adult Employees
+
+Return the names of employees who are active and at least 18 years old.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `map()` array method
+- Comparison operators
+- The logical AND (`&&`) operator
+- Chaining array methods
+
+### Assessment 09: Calculate the Average Grade of Approved Students
+
+Calculate the average grade of students who passed.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- The `length` property
+- Accumulators and initial values
+- Calculating averages
+
+
 ### How to Run an Assessment
 
 From the project root, run an assessment using Node.js:
