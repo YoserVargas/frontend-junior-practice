@@ -348,6 +348,48 @@ Calculate the average grade of students who passed.
 - Accumulators and initial values
 - Calculating averages
 
+### Assessment 10: Calculate Total Spending by Customer
+
+Calculate the total amount spent by a specific customer.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Function parameters
+- Strict equality (`===`)
+- Accumulators and initial values
+
+### Assessment 11: Calculate Spending by Customer and Category
+
+Calculate the total amount spent by a specific customer on products belonging to a selected category.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Logical AND (`&&`)
+- Multiple filtering conditions
+- Function parameters
+
+### Assessment 12: Count Products by Category
+
+Count how many products belong to a specified category.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `length` property
+- Function parameters
+- Strict equality (`===`)
+
+### Assessment 13: Find the Most Expensive Product
+
+Find and return the product with the highest price using `reduce()`.
+
+**Concepts practiced:**
+- The `reduce()` array method
+- Accumulators
+- Comparison operators (`>`)
+- Objects and object properties
+- Initial accumulator values
 
 ### How to Run an Assessment
 
