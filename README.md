@@ -391,6 +391,29 @@ Find and return the product with the highest price using `reduce()`.
 - Objects and object properties
 - Initial accumulator values
 
+### Assessment 14: Find the Cheapest Product
+
+Find and return the product with the lowest price using `reduce()`.
+
+**Concepts practiced:**
+- The `reduce()` array method
+- Accumulators and initial values
+- Comparison operators (`<`)
+- Objects and object properties
+- Finding minimum values
+
+### Assessment 15: Find the Most Expensive Product by Category
+
+Filter products by category and find the most expensive product within that category.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- Chaining array methods
+- Function parameters
+- Comparison operators (`>`)
+- Accumulators and initial values
+
 ### How to Run an Assessment
 
 From the project root, run an assessment using Node.js:
