@@ -414,6 +414,41 @@ Filter products by category and find the most expensive product within that cate
 - Comparison operators (`>`)
 - Accumulators and initial values
 
+### Assessment 16: Find the Highest-Paid Employee
+
+Find and return the employee with the highest salary.
+
+**Concepts practiced:**
+- The `reduce()` array method
+- Accumulators and initial values
+- Comparison operators (`>`)
+- Objects and object properties
+- Finding maximum values
+
+### Assessment 17: Calculate the Average Salary by Department
+
+Calculate the average salary of employees belonging to a specific department.
+
+**Concepts practiced:**
+- The `filter()` array method
+- The `reduce()` array method
+- The `length` property
+- Function parameters
+- Calculating averages
+
+### Assessment 18: Find the Department with the Highest Average Salary
+
+Calculate the average salary for each department and find the department with the highest average.
+
+**Concepts practiced:**
+- The `map()` array method
+- The `filter()` array method
+- The `reduce()` array method
+- The `length` property
+- Chaining and combining array methods
+- Nested array operations
+- Calculating and comparing averages
+
 ### How to Run an Assessment
 
 From the project root, run an assessment using Node.js:
