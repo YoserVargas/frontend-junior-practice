@@ -464,6 +464,24 @@ Calculate the average salary for each department and find the department with th
 
 **Expected result:** Monitor – ₡285,000
 
+### Assessment 20: Find the Best Employee by Average Sales
+
+Calculate the total sales and average sales for each employee, consider only employees in the `"Ventas"` department, and identify the employee with the highest average sales.
+
+**Concepts:**
+- The `reduce()` array method
+- The `length` property
+- `for...of` loops
+- Arrow functions (`=>`)
+- Comparison operators (`>` and `!==`)
+- Conditional statements (`if`)
+- The `continue` statement
+- Variables using `let` and `const`
+- Calculating and comparing averages
+- Returning objects with multiple properties
+
+**Expected result:** María – Total sales: 405,000 – Average sales: 135,000
+
 ### How to Run an Assessment
 
 From the project root, run an assessment using Node.js:
